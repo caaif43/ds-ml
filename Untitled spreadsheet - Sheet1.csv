@@ -1,0 +1,16 @@
+Age,Income,Product Price,Purchased
+22,Low,200,No
+25,Medium,500,Yes
+35,High,900,Yes
+20,Low,150,No
+40,High,1200,Yes
+28,Medium,700,Yes
+19,Low,300,No
+32,High,800,Yes
+24,Medium,400,No
+45,High,1500,Yes
+21,Low,250,No
+30,Medium,600,Yes
+38,High,1000,?
+18,Low,180,?
+27,Medium,450,?
